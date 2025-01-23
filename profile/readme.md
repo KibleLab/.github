@@ -5,7 +5,7 @@
 > **[Kible](https://github.com/KibleLab/kible)** <br/>
 > QR코드를 스캔하여 모바일로 주문하는 시스템 (일반음식점용)
 
-> **[Quoridouble](https://github.com/KibleLab/quoridouble)** <br />
+> **[Quoridouble](https://github.com/KibleLab/quoridouble-portfolio)** <br />
 > 강화학습 기반 AI와 PvP 대전, 개선된 UX가 구현된 Quoridor 게임 앱
 
 > **[Quoridor-Pathfind](https://github.com/KibleLab/quoridor-pathfind)** <br />
